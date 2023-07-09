@@ -15,6 +15,7 @@ import { Menu as Lock, User, Unlock } from '@element-plus/icons-vue'
     <div class="container">
     <div>
       <p>学生：2020212001 2020212001</p>
+      <p>请您手动输入账户密码，不要复制</p>>
     </div>
       <h2 class="title">用户登录</h2>
       <form class="form">
